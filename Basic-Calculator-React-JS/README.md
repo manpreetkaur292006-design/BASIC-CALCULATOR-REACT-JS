@@ -79,12 +79,12 @@ src/
 - Vite project setup and hot reload
 - Keyboard event handling in React
 
-<!-- ## 🔮 Next Steps
+## 🔮 Next Steps
 
 - [ ] Add advanced functions (√, x², memory)
 - [ ] Themes (dark/light mode)
 - [ ] History of calculations
 - [ ] Unit tests with Vitest/Jest
-- [ ] Deploy to Vercel/Netlify -->
+- [ ] Deploy to Vercel/Netlify
 
 
